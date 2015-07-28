@@ -1,6 +1,5 @@
-# java-concurrency
 ```
-EXIF Parser
+  java-concurrency sample app
 
   What is it?
   -----------
