@@ -1,6 +1,6 @@
 # java-concurrency
-<pre>
-                          EXIF Parser
+```
+EXIF Parser
 
   What is it?
   -----------
@@ -87,6 +87,5 @@
   
   Contacts
   --------
-
      o Author: Venkat Reddy (venkat@apache.org)
-</pre?
+```
